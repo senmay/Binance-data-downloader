@@ -15,7 +15,7 @@ if __name__ == '__main__':
 )
     base_path = r'F:\projekt binance\data\futures\um\daily'
     data_types = ['klines']
-    pairs = ['AVAUSDT', 'AXSUSDT', 'BNXUSDT', 'BTCUSDT', 'ATOMUSDT']
+    pairs = ['ETHUSDT', 'BTCUSDT', 'ATOMUSDT']
     my_intervals = ['1m', '3m', '5m', '15m', '1h', '4h']
 
     logger_setup = LoggerSetup()
